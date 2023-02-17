@@ -1,2 +1,2 @@
 # Profile-card
-Live Link: https://elbaqa.github.io/Profile-card/
+Live Link: https://Beqaelbaqidze.github.io/Profile-card/
